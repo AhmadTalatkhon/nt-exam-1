@@ -1,7 +1,8 @@
 .container{
     max-width: 1200px;
     margin:0 auto;
-}
+};
+
 *{
     border-style: border-box;
     margin: 0px;
